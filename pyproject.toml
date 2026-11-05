@@ -1,0 +1,15 @@
+[project]
+name = "taller-agentes"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic-ai-slim[openai]>=2.57.0",
+    "pydantic-evals>=2.57.0",
+    "python-dotenv>=1.2.4",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.1",
+    "ty>=0.0.89",
+]

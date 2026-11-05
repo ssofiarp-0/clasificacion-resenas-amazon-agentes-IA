@@ -1,0 +1,9 @@
+1. descargar el conjunto de datos y transformarlo con python a txt
+
+2. Crear el .env
+
+3. crear el config
+
+4. crear el uv.lock y el pyproyect.toml
+
+5. crear el step0 
