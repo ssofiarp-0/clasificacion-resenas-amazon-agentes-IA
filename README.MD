@@ -12,15 +12,3 @@ El proyecto aborda la clasificación de opiniones de clientes mediante dos aprox
 
 ---
 
-## Requisitos del Sistema y Dependencias
-
-- **Python:** Version 3.10 o superior.
-- **Gestor de Paquetes:** `uv` (Astral).
-- **Modelo de Lenguaje:** Acceso a la API de OpenAI mediante API Key válida.
-
-### Instalación
-
-1. Clonar el repositorio localmente:
-   ```bash
-   git clone [https://github.com/ssofiarp-0/clasificacion-rese-as-amazon-agentes-IA.git](https://github.com/ssofiarp-0/clasificacion-rese-as-amazon-agentes-IA.git)
-   cd clasificacion-rese-as-amazon-agentes-IA
